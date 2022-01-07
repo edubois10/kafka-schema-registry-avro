@@ -1,0 +1,3 @@
+/home/edubois/RedHat/Learning/AMQStreamsCourse/kafka-avro-schema-quickstart/src/main/java/org/acme/kafka/ConsumedBookResource.java
+/home/edubois/RedHat/Learning/AMQStreamsCourse/kafka-avro-schema-quickstart/target/generated-sources/avsc/org/acme/kafka/quarkus/Book.java
+/home/edubois/RedHat/Learning/AMQStreamsCourse/kafka-avro-schema-quickstart/src/main/java/org/acme/kafka/BookResource.java

@@ -1,0 +1,4 @@
+org/acme/kafka/MovieResourceTest.class
+org/acme/kafka/NativeMovieResourceIT.class
+org/acme/kafka/MyReactiveMessagingApplicationTest.class
+org/acme/kafka/MyReactiveMessagingApplicationTest$InMemoryChannelTestResource.class

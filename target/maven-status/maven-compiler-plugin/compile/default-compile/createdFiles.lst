@@ -1,0 +1,4 @@
+org/acme/kafka/quarkus/Book$Builder.class
+org/acme/kafka/BookResource.class
+org/acme/kafka/ConsumedBookResource.class
+org/acme/kafka/quarkus/Book.class
